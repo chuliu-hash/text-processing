@@ -3,7 +3,7 @@ import codecs
 import os
 
 unsupported_chars = []
-encode = 'gbk'
+encode = 'shift-jis'
 encoder = codecs.getencoder(encode)
 input_folder = "json"
 
