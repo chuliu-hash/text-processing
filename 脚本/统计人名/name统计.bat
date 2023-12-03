@@ -1,1 +1,0 @@
-python nameÍ³¼Æ.py
